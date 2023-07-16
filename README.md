@@ -1,4 +1,4 @@
-[![MasterHead](https://pixabay.com/tr/photos/teknoloji-bilgisayar-kod-javascript-1283624/)
+[![MasterHead]([https://pixabay.com/tr/photos/teknoloji-bilgisayar-kod-javascript-1283624/](https://pixabay.com/tr/photos/kodlama-programlama-css-1853305/))
 
 <h1 align="center">Hi 👋, I'm Rıdvan AYDOĞDU</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
