@@ -1,4 +1,4 @@
-<img src="https://picsum.photos/seed/picsum/700/200" class="card-img" alt="...">
+<img src="https://picsum.photos/seed/picsum/700/200" class="text-center" alt="...">
 
 <h1 align="center">Hi 👋, I'm Rıdvan AYDOĞDU</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
